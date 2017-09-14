@@ -1,0 +1,21 @@
+body {
+	padding-top: 10px; /* support for navbar-fixed-top */
+	background-color: grey;
+}
+table {
+	border: 20px;
+	background-color: blue;
+}
+
+.maintableJMZ {
+	padding: 5px;
+	border: 5px;
+	background-color: yellow;
+	shadow: true;
+	height:35px;
+}
+
+.maintableJMZ2 {
+	border: 5px;
+	background-color: red;
+}
